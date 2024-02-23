@@ -2,7 +2,7 @@
 
 # Variables
 ISO_PATH=/home/admin-xav/download/CentOS-Stream-9-latest-x86_64-dvd1.iso
-KS_CFG=/home/admin-xav/download/ks_fx.cfg
+KS_CFG=/home/admin-xav/OS/ks_fx.cfg
 VM_NAME="RedHat9_VM"
 DISK_SIZE="30"
 RAM="2048"
